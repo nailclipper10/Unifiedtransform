@@ -1,6 +1,6 @@
 <h1 align="center"><img src="public/appname.svg" width="500"></h1>
 
-## Version 2.XX is here!!
+## Version 2.XXX is here!!
 
 For Version 1.X, view [releases](https://github.com/changeweb/Unifiedtransform/releases). Continuation of Version 1.X support in **[v1-x-branch](https://github.com/changeweb/Unifiedtransform/tree/v1-x-branch)** branch.
 </p>
